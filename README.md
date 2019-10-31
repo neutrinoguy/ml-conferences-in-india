@@ -8,6 +8,7 @@ Below is a list of AI / ML / DL conferences in India organised by month and regi
 
 ## Bangalore
 - [DataHack Summit 2019](https://datahack.analyticsvidhya.com/contest/datahack-summit-2019/)
+- [Machine Learning Developers Summit 2020](https://www.mlds.analyticsindiasummit.com/)
 
 
 
