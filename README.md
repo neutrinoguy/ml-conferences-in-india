@@ -11,6 +11,7 @@ Below is a list of AI / ML / DL conferences in India organised by month and regi
 - [Machine Learning Developers Summit 2020](https://www.mlds.analyticsindiasummit.com/)
 - [Anthill Inside 2019](https://hasgeek.com/anthillinside/2019/)
 - [Artificial Intelligence - Digital Transformation](https://www.allconferencealerts.com/conference_details/104918/artificial-intelligence-digital-transformation)
+- [First International Conference on AI-ML Systems](https://www.aimlsystems.org/2021/)
 
 
 
