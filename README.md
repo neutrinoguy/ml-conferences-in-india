@@ -4,7 +4,7 @@ Below is a list of AI / ML / DL conferences in India organised by month and regi
 # Conferences by City arranged alphabetically.
 
 ## Ahemedabad
-- [Name of Conference](http://linktoconferencewebsite.com/)
+- [International conference on Machine learning Big data management Cloud and Computing (ICMBDC)](http://asar.org.in/Conference/23550/ICMBDC/)
 
 ## Bangalore
 - [DataHack Summit 2019](https://datahack.analyticsvidhya.com/contest/datahack-summit-2019/)
